@@ -1,4 +1,4 @@
-## Oiii eu sou a Thiago Moraes!
+## Oi eu sou a Thiago Moraes!
 
 
 <div style="display: inline_block"><br>
